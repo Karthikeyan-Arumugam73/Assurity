@@ -6,6 +6,7 @@ Tool used : Apache JMeter 5.5
 Basic Assumptions :
 -----------------  
    1.Test Script is created as per the Fucntional requriements given in the email
+   
    2.Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email             
 
 Script and Support File Uploaded in Repository:
