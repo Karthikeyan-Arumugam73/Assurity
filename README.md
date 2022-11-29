@@ -21,12 +21,12 @@ Script and Support File Uploaded in Repository:
    
  Scripting :
  ---------
-   Script was created in an Open-Source tool - Apache JMeter 5.5
-   Test Assertions are written code in Groovy .
-   Necessary comments are added inline in the JMeter Script file for better understanding & reference
-   Filename : Assurity_assessment.jmx ( Attached in Repository)
+    Script was created in an Open-Source tool - Apache JMeter 5.5
+    Test Assertions are written code in Groovy .
+    Necessary comments are added inline in the JMeter Script file for better understanding & reference
+    Filename : Assurity_assessment.jmx ( Attached in Repository)
    
-   To run the script alone , follow the below instructions :
+    To run the script alone , follow the below instructions :
     1. Go to the JMeter bin folder from the installed Directory (Example: C:\Users\Downloads\apache-jmeter-5.5\bin)
     2. Place the Script File (Assurity_assessment.jmx) in the bin directory
     3. Place the Test Data File (p_categoryid.csv) in the bin directory
