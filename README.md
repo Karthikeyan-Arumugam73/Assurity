@@ -4,13 +4,14 @@ Tool used : Apache JMeter 5.5
 ---------
 
 Basic Assumptions :
------------------  Test Script is created as per the Fucntional requriements given in the email
-                   Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email
+-----------------  
+  Test Script is created as per the Fucntional requriements given in the email
+  Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email
              
 
 Script and Support File Uploaded in Repository:
 ----------------------------------------------
-  Please find below the File Names & File Types
+   Please find below the File Names & File Types
   
    1. Assurity_assessment.jmx - It is a Jmeter Script File ( Should be Place in the JMeter Bin Folder if need to execute the test)
    2. p_categoryid.csv - It is a Test data file with Category IDs ( Should be Place in the JMeter Bin Folder if need to execute the test)
