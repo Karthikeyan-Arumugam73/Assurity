@@ -52,5 +52,5 @@ Script and Support File Uploaded in Repository:
     
   Performance Test Report :
   -------------------------
-    Created a separate report for this test and named as "Assurity Performance Testing Assessment Report.pptx" attached in the repository
-    Also the support files sucn as the test raw data file ( assessment_result.jtl) and the output file (assurity_csv_file.csv) are attached in the repository and in the perforamnce report (Assurity Performance Testing Assessment Report.pptx) as well.
+    1. Created a separate report for this test and named as "Assurity Performance Testing Assessment Report.pptx" attached in the repository
+    2. Also the support files sucn as the test raw data file ( assessment_result.jtl) and the output file (assurity_csv_file.csv) are attached in the repository and in the perforamnce report (Assurity Performance Testing Assessment Report.pptx) as well.
