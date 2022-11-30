@@ -39,7 +39,7 @@ Script and Support File Uploaded in Repository:
    
  Performance Test Execution:
  --------------------------
-    Please follow the below isntructions to run the performance test
+    Please follow the below isntructions to run the performance test in Non-GUI Mode
     1. Go to the JMeter bin folder from the installed Directory (Example: C:\Users\Downloads\apache-jmeter-5.5\bin)
     2. Place the Script File (Assurity_assessment.jmx) in the bin directory
     3. Place the Test Data File (p_categoryid.csv) in the bin directory
