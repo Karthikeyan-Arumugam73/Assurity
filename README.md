@@ -16,6 +16,7 @@ Script and Support File Uploaded in Repository:
      3. test_parameters.properties - It is test paramter proerties file which allow for changing ramp-up, steady state, throughput and VUser (Thread) count. ( Should be Place in the JMeter Bin Folder if need to execute the test)    
      4. assessment_result.jtl - It is a result file executed as lcoal test in my PC ( Can be referred for the results I executed using Aggregate Reprot Listener in JMeter)
      5. assurity_csv_file.csv - The Output file created during the test executed in my local PC ( Excuted as given in Functional Requirement Number #4 Print following values in a csv file: Category ID, Name, Path, Promotion ID, Price) - can be referred to check the output 
+     6. Assurity Performance Testing Assessment Report.pptx - Created a separate test report for this performance test execution 
    
  Scripting :
  ---------
