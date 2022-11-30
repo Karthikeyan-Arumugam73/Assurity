@@ -5,8 +5,7 @@ Tool used : Apache JMeter 5.5
 
 Basic Assumptions :
 -----------------  
-     1.Test Script is created as per the Fucntional requriements given in the email
-   
+     1.Test Script is created as per the Fucntional requriements given in the email   
      2.Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email             
 
 Script and Support File Uploaded in Repository:
@@ -53,3 +52,5 @@ Script and Support File Uploaded in Repository:
     
   Performance Test Report :
   -------------------------
+    Created a separate report for this test and named as "Assurity Performance Testing Assessment Report.pptx" attached in the repository
+    Also the support files sucn as the test raw data file ( assessment_result.jtl) and the output file (assurity_csv_file.csv) are attached in the repository and in the perforamnce report (Assurity Performance Testing Assessment Report.pptx) as well.
