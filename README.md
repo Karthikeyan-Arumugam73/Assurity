@@ -5,18 +5,18 @@ Tool used : Apache JMeter 5.5
 
 Basic Assumptions :
 -----------------  
-   1.Test Script is created as per the Fucntional requriements given in the email
+     1.Test Script is created as per the Fucntional requriements given in the email
    
-   2.Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email             
+     2.Test exectuion is executed as per the Functional & Non-Functional Requirements given in the email             
 
 Script and Support File Uploaded in Repository:
 ----------------------------------------------
-   Please find below the File Names & File Types  
-   1. Assurity_assessment.jmx - It is a Jmeter Script File ( Should be Place in the JMeter Bin Folder if need to execute the test)
-   2. p_categoryid.csv - It is a Test data file with Category IDs ( Should be Place in the JMeter Bin Folder if need to execute the test)
-   3. test_parameters.properties - It is test paramter proerties file which allow for changing ramp-up, steady state, throughput and VUser (Thread) count. ( Should be Place in the JMeter Bin Folder if need to execute the test)    
-   4. assessment_result.jtl - It is a result file executed as lcoal test in my PC ( Can be referred for the results I executed using Aggregate Reprot Listener in JMeter)
-   5. assurity_csv_file.csv - The Output file created during the test executed in my local PC ( Excuted as given in Functional Requirement Number #4 Print following values in a csv file: Category ID, Name, Path, Promotion ID, Price) - can be referred to check the output 
+     Please find below the File Names & File Types  
+     1. Assurity_assessment.jmx - It is a Jmeter Script File ( Should be Place in the JMeter Bin Folder if need to execute the test)
+     2. p_categoryid.csv - It is a Test data file with Category IDs ( Should be Place in the JMeter Bin Folder if need to execute the test)
+     3. test_parameters.properties - It is test paramter proerties file which allow for changing ramp-up, steady state, throughput and VUser (Thread) count. ( Should be Place in the JMeter Bin Folder if need to execute the test)    
+     4. assessment_result.jtl - It is a result file executed as lcoal test in my PC ( Can be referred for the results I executed using Aggregate Reprot Listener in JMeter)
+     5. assurity_csv_file.csv - The Output file created during the test executed in my local PC ( Excuted as given in Functional Requirement Number #4 Print following values in a csv file: Category ID, Name, Path, Promotion ID, Price) - can be referred to check the output 
    
  Scripting :
  ---------
